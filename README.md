@@ -6,4 +6,3 @@ Readme.md
 <h2>New changes</h2>
 <h3>Nagłówek</h3>
 <p>Update</p>
-<p>New change</p>
